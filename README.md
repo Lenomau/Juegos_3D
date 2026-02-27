@@ -1,6 +1,6 @@
 # Nombre: SinSeñal
-## Fecha de inicio: 19/06/2025 
-## Estado: En desarrollo 
+## Fecha de inicio: 1/12/2025 
+## Estado: En Pausa desde el 20 de enero 
 
 # requisitos minimos:
 
@@ -43,16 +43,16 @@
 ### El juego con todo a Ultra va:
 
 ### Cpu 35%
-### Ram de 80MB a 90 MB
+### Ram de 70MB a 250 MB
 ### Gpu 99%
-### Fps 204
+### Fps > 60
 
 ## Hardware Antiguo:
 
 ### El juego con Graficos bajo/Medio va:
 
-### Cpu 12%
-### Ram de 20MB a 50 MB
-### Gpu 60% a 80%
-### Fps +60
+### Cpu 
+### Ram 
+### Gpu 
+### Fps 
 
