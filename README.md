@@ -33,26 +33,3 @@
 
 ### Resolución recomendada: 1920x1080 (Full HD) o superior
 
-
-
-
-# 📌 Notas del Desarrollador
-
-## hardware moderno:
-
-### El juego con todo a Ultra va:
-
-### Cpu 35%
-### Ram de 70MB a 250 MB
-### Gpu 99%
-### Fps > 60
-
-## Hardware Antiguo:
-
-### El juego con Graficos bajo/Medio va:
-
-### Cpu 
-### Ram 
-### Gpu 
-### Fps 
-
