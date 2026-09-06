@@ -1,6 +1,6 @@
 # Nombre: SinSeñal
 ## Fecha de inicio: 1/12/2025 
-## Estado: En rpoduccion
+## Estado: En Produccion
 
 # requisitos minimos:
 
