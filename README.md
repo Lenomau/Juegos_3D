@@ -1,6 +1,6 @@
 # Nombre: SinSeñal
 ## Fecha de inicio: 1/12/2025 
-## Estado: En Pausa desde el 20 de enero 
+## Estado: En rpoduccion
 
 # requisitos minimos:
 
