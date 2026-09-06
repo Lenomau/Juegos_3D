@@ -29,7 +29,7 @@
 
 ### DirectX: Versión 12
 
-### Almacenamiento: SSD con al menos 2GB libres
+### Almacenamiento:
 
 ### Resolución recomendada: 1920x1080 (Full HD) o superior
 
