@@ -33,3 +33,11 @@
 
 ### Resolución recomendada: 1920x1080 (Full HD) o superior
 
+
+# Notas del Desarollador:
+Actualmente le esta corriendo en una laptop juana manzo con calidad grafica: Baja/Media
+
+
+
+
+
